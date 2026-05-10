@@ -1,4 +1,4 @@
-
+Get the ultimate Final Cut Pro for macOS plugin with updated Plugin for Final Cut Pro for macOS - echo-removal and proxy-editing. Featuring echo-removal and proxy-editing, it's
 
 
 
